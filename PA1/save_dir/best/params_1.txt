@@ -1,0 +1,13 @@
+lr: 0.001
+momentum: 0.9
+num_hidden: 3
+sizes: 250,200,150
+activation: relu
+loss: ce
+opt: adam
+batch_size: 20
+epochs: 10
+anneal: true
+********************(below this line include if you added any your own arguments(check params_2.txt) , if not file ends here)
+input_dim: 75
+lambd: 0.001
