@@ -9,6 +9,15 @@ Implementation of deep neural networks from scratch for multiclass classificatio
 ### Usage
 Download the directory and use bash run.sh in terminal. Change placeholders in run.sh for train, validation and test data. Weights will be stored in save_dir and logs will be stored in expt_dir along with predictions. 
 
+## Programming Assignment 2
+Implementation of CNN for multiclass classification in Tiny Imagenet dataset. Also includes code for fooling network, guided backpropogation and plotting weight of layer 1 filter. 
+### Prerequisites 
+1) Numpy  
+2) Pickle 
+3) Sklearn
+
+### Usage
+Download the directory and use bash run.sh in terminal. Change placeholders in run.sh for train, validation and test data.
 
 
 
