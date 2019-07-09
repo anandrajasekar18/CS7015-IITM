@@ -15,6 +15,23 @@ Implementation of CNN for multiclass classification in Tiny Imagenet dataset. Al
 1) Numpy  
 2) Pickle 
 3) Sklearn
+4) Tensorflow
+5) scipy
+6) Matplotlib 
+7) Pandas
+
+### Usage
+Download the directory and use bash run.sh in terminal. Change placeholders in run.sh for train, validation and test data.
+
+
+## Programming Assignment 3
+Implementation of RNN for transliteration from english to Hindi. Also includes code for bidirectional lstm and attention. 
+### Prerequisites 
+1) Numpy  
+2) Pickle 
+3) Tensorflow
+4) Matplotlib
+5) Scipy
 
 ### Usage
 Download the directory and use bash run.sh in terminal. Change placeholders in run.sh for train, validation and test data.
